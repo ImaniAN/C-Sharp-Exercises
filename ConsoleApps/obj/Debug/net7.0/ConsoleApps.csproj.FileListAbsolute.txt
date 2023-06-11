@@ -1,0 +1,15 @@
+C:\Users\imani\OneDrive\Desktop\GitHub Projects\0_Exercises\C#\ConsoleApps\bin\Debug\net7.0\ConsoleApps.exe
+C:\Users\imani\OneDrive\Desktop\GitHub Projects\0_Exercises\C#\ConsoleApps\bin\Debug\net7.0\ConsoleApps.deps.json
+C:\Users\imani\OneDrive\Desktop\GitHub Projects\0_Exercises\C#\ConsoleApps\bin\Debug\net7.0\ConsoleApps.runtimeconfig.json
+C:\Users\imani\OneDrive\Desktop\GitHub Projects\0_Exercises\C#\ConsoleApps\bin\Debug\net7.0\ConsoleApps.dll
+C:\Users\imani\OneDrive\Desktop\GitHub Projects\0_Exercises\C#\ConsoleApps\bin\Debug\net7.0\ConsoleApps.pdb
+C:\Users\imani\OneDrive\Desktop\GitHub Projects\0_Exercises\C#\ConsoleApps\obj\Debug\net7.0\ConsoleApps.csproj.AssemblyReference.cache
+C:\Users\imani\OneDrive\Desktop\GitHub Projects\0_Exercises\C#\ConsoleApps\obj\Debug\net7.0\ConsoleApps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imani\OneDrive\Desktop\GitHub Projects\0_Exercises\C#\ConsoleApps\obj\Debug\net7.0\ConsoleApps.AssemblyInfoInputs.cache
+C:\Users\imani\OneDrive\Desktop\GitHub Projects\0_Exercises\C#\ConsoleApps\obj\Debug\net7.0\ConsoleApps.AssemblyInfo.cs
+C:\Users\imani\OneDrive\Desktop\GitHub Projects\0_Exercises\C#\ConsoleApps\obj\Debug\net7.0\ConsoleApps.csproj.CoreCompileInputs.cache
+C:\Users\imani\OneDrive\Desktop\GitHub Projects\0_Exercises\C#\ConsoleApps\obj\Debug\net7.0\ConsoleApps.dll
+C:\Users\imani\OneDrive\Desktop\GitHub Projects\0_Exercises\C#\ConsoleApps\obj\Debug\net7.0\refint\ConsoleApps.dll
+C:\Users\imani\OneDrive\Desktop\GitHub Projects\0_Exercises\C#\ConsoleApps\obj\Debug\net7.0\ConsoleApps.pdb
+C:\Users\imani\OneDrive\Desktop\GitHub Projects\0_Exercises\C#\ConsoleApps\obj\Debug\net7.0\ConsoleApps.genruntimeconfig.cache
+C:\Users\imani\OneDrive\Desktop\GitHub Projects\0_Exercises\C#\ConsoleApps\obj\Debug\net7.0\ref\ConsoleApps.dll
