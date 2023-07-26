@@ -1,0 +1,29 @@
+{
+    "recommendations": [
+        "davidanson.vscode-markdownlint",
+        "shardulm94.trailing-spaces",
+        "piotrpalarz.vscode-gitignore-generator",
+        "formulahendry.dotnet",
+        "ms-dotnettools.vscode-dotnet-pack",
+        "ms-dotnettools.vscode-dotnet-runtime",
+        "ms-dotnettools.csharp",
+        "ms-dotnettools.csdevkit",
+        "kreativ-software.csharpextensions",
+        "jorgeserrano.vscode-csharp-snippets",
+        "formulahendry.code-runner",
+        "codezombiech.gitignore",
+        "visualstudioexptteam.vscodeintellicode",
+        "visualstudioexptteam.intellicode-api-usage-examples",
+        "ms-dotnettools.vscodeintellicode-csharp",
+        "ms-toolsai.jupyter",
+        "ms-toolsai.vscode-jupyter-cell-tags",
+        "ms-toolsai.jupyter-keymap",
+        "ms-toolsai.jupyter-renderers",
+        "ms-toolsai.vscode-jupyter-slideshow",
+        "pkief.material-icon-theme",
+        "christian-kohler.path-intellisense",
+        "ms-dotnettools.dotnet-interactive-vscode",
+        "esbenp.prettier-vscode",
+        "vscode-icons-team.vscode-icons"
+    ]
+}

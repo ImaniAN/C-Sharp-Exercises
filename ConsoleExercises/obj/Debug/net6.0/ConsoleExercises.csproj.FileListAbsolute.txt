@@ -1,0 +1,15 @@
+C:\Users\imani\Desktop\Github Projects\C-Sharp-Exercises\ConsoleExercises\bin\Debug\net6.0\ConsoleExercises.exe
+C:\Users\imani\Desktop\Github Projects\C-Sharp-Exercises\ConsoleExercises\bin\Debug\net6.0\ConsoleExercises.deps.json
+C:\Users\imani\Desktop\Github Projects\C-Sharp-Exercises\ConsoleExercises\bin\Debug\net6.0\ConsoleExercises.runtimeconfig.json
+C:\Users\imani\Desktop\Github Projects\C-Sharp-Exercises\ConsoleExercises\bin\Debug\net6.0\ConsoleExercises.dll
+C:\Users\imani\Desktop\Github Projects\C-Sharp-Exercises\ConsoleExercises\bin\Debug\net6.0\ConsoleExercises.pdb
+C:\Users\imani\Desktop\Github Projects\C-Sharp-Exercises\ConsoleExercises\obj\Debug\net6.0\ConsoleExercises.csproj.AssemblyReference.cache
+C:\Users\imani\Desktop\Github Projects\C-Sharp-Exercises\ConsoleExercises\obj\Debug\net6.0\ConsoleExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imani\Desktop\Github Projects\C-Sharp-Exercises\ConsoleExercises\obj\Debug\net6.0\ConsoleExercises.AssemblyInfoInputs.cache
+C:\Users\imani\Desktop\Github Projects\C-Sharp-Exercises\ConsoleExercises\obj\Debug\net6.0\ConsoleExercises.AssemblyInfo.cs
+C:\Users\imani\Desktop\Github Projects\C-Sharp-Exercises\ConsoleExercises\obj\Debug\net6.0\ConsoleExercises.csproj.CoreCompileInputs.cache
+C:\Users\imani\Desktop\Github Projects\C-Sharp-Exercises\ConsoleExercises\obj\Debug\net6.0\ConsoleExercises.dll
+C:\Users\imani\Desktop\Github Projects\C-Sharp-Exercises\ConsoleExercises\obj\Debug\net6.0\refint\ConsoleExercises.dll
+C:\Users\imani\Desktop\Github Projects\C-Sharp-Exercises\ConsoleExercises\obj\Debug\net6.0\ConsoleExercises.pdb
+C:\Users\imani\Desktop\Github Projects\C-Sharp-Exercises\ConsoleExercises\obj\Debug\net6.0\ConsoleExercises.genruntimeconfig.cache
+C:\Users\imani\Desktop\Github Projects\C-Sharp-Exercises\ConsoleExercises\obj\Debug\net6.0\ref\ConsoleExercises.dll
